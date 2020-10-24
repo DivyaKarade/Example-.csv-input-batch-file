@@ -2,4 +2,4 @@
 
 Launch the web app:
 
-[![Streamlit App](https://sars-covid-app.herokuapp.com/)
+(https://sars-covid-app.herokuapp.com/)
