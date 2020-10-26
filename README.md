@@ -2,7 +2,7 @@
 
 Example file contains descriptor values of ten molecules.
 
-Description of descriptors in columns:
+Descriptors headings in columns:
 1. a_acc: Hydrogen acceptor atoms
 2. a_don: Hydrogen bond donor atoms
 3. b_rotN: Number of rotatable bonds
