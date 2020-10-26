@@ -13,5 +13,7 @@ Description of descriptors in columns:
 8. Weight: Molecular weight of the molecule
 
 Launch the web app:
+https://sars-covid-app.herokuapp.com/
 
-(https://sars-covid-app.herokuapp.com/)
+Webapp introductory tutorial:
+https://youtu.be/4JaTjE1zQWs
