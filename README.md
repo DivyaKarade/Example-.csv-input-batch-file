@@ -12,8 +12,3 @@ Descriptors headings in columns:
 7. rings: Number of rings
 8. Weight: Molecular weight of the molecule
 
-Launch the web app:
-https://sars-covid-app.herokuapp.com/
-
-Webapp introductory tutorial:
-https://youtu.be/4JaTjE1zQWs
