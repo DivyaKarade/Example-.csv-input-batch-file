@@ -1,4 +1,4 @@
-# Example-.csv-input-batch-file-for-SARS_COVID_Webapp
+# Example.csv input batch file
 
 Example file contains descriptor values of ten molecules.
 
