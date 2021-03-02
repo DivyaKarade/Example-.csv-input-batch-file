@@ -1,4 +1,5 @@
 # Example.csv input batch file
+(https://sars-covid-app.herokuapp.com/)
 
 Example file contains descriptor values of ten molecules.
 
