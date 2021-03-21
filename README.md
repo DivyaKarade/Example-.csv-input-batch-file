@@ -1,7 +1,7 @@
-# Example.csv input batch file
+# Example.csv input file
 (https://sars-covid-app.herokuapp.com/)
 
-Example file contains descriptor values of ten molecules.
+Example file contains descriptor values of molecules.
 
 Descriptors headings in columns:
 1. a_acc: Hydrogen acceptor atoms
